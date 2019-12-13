@@ -33,5 +33,5 @@ $ npm run build
 
 ## Add Aliases
 
-- Open the package.json
+- Open the `package.json`
 - Add alias to the `_moduleAliases` object
