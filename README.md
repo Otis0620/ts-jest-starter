@@ -29,9 +29,9 @@ $ npm run build
 
 # Aliases
 
-- @ = src
+- `@ = src`
 
 ## Add Aliases
 
 - Open the package.json
-- Add alias to "\_moduleAliases" object
+- Add alias to the `_moduleAliases` object
