@@ -26,3 +26,12 @@ $ npm run unit index
 $ npm run build
 
 ```
+
+# Aliases
+
+- @ = src
+
+## Add Aliases
+
+- Open the package.json
+- Add alias to "\_moduleAliases" object
