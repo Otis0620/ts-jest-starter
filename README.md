@@ -29,7 +29,7 @@ $ npm run build
 
 # Aliases
 
-- `@ = src`
+- `@ -> src`
 
 ## Add Aliases
 
