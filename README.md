@@ -1,6 +1,6 @@
 # How to use
 
-Simply clone or fork this repo and start testing your typescript code using jest.
+Simply clone or fork this repo and start testing your typescript code using jest
 
 # Setup
 
